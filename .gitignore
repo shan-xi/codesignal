@@ -1,4 +1,5 @@
 .idea/
 codesignal.iml
 .DS_Store
+target/
 
